@@ -14,15 +14,19 @@
 <li><b><a target="_blank" href="img/ail(11).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out</a></b></li>
 <li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">A Devil's Chaplain: Reflections on Hope, Lies, Science, and Love</a></b></li>
                <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">The Ancestor's Tale: A Pilgrimage to the Dawn of Life</a></b></li>
+               
+ <li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">The Descent of Man, and Selection in Relation to Sex</a></b></li>              
                               
-<li><b><a target="_blank" href="img/ail(15).pdf" style="text-decoration:none;">Machine Learning and Data Mining Lecture Notes</a></b></li>
-<li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Artificial Intelligence - IIT</a></b></li>
+<li><b><a target="_blank" href="img/ail(15).pdf" style="text-decoration:none;">Black House</a></b></li>
+<li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Harry Potter and the Half-Blood Prince</a></b></li>
 
-  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Black Holes And Baby Universes And Other Essays </a></b></li>    
+  
+<li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">QED: The Strange Theory of Light and Matter </a></b></li>      
 
-<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">Lecture Notes in Machine Learning </a></b></li>
+<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">The Emperor's New Mind </a></b></li>
  
-<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Introduction to AI and Intelligent Systems </a></b></li>
+<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Bag of Bones </a></b></li>
 
 <li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Machine Learning by Andrew NG Lecture Notes </a></b></li>
  
