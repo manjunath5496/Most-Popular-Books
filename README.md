@@ -141,9 +141,16 @@
 
   <li><b><a target="_blank" href="img/ail(78).pdf" style="text-decoration:none;">Political Ideals</a></b></li> 
   
+<li><b><a target="_blank" href="img/ail(79).pdf" style="text-decoration:none;">The Tragedy of King Lear </a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(80).pdf" style="text-decoration:none;">The Problems of Philosophy </a></b></li> 
  
+  
+   <li><b><a target="_blank" href="img/ail(81).pdf" style="text-decoration:none;">"Subtle is the Lord...": The Science and Life of Albert Einstein</a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(82).rar" style="text-decoration:none;">Insectivorous plants</a></b></li> 
  
- 
+  <li><b><a target="_blank" href="img/ail(83).pdf" style="text-decoration:none;">Three hundred years of gravitation</a></b></li>  
  
  
  
