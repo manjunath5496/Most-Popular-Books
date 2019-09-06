@@ -1,20 +1,19 @@
 <ul>
 
                              
- <li><b><a target="_blank" href="img/ail(1).pdf" style="text-decoration:none;">Artificial Intelligence</a></b></li>
- <li><b><a target="_blank" href="img/ail(2).pdf" style="text-decoration:none;">CSC384: Introduction to Artificial Intelligence  </a></b></li>
-                                <li><b><a target="_blank" href="img/ail(3).pdf" style="text-decoration:none;">CptS 440 / 540 Artificial Intelligence: Introduction</a></b></li>
- <li><b><a target="_blank" href="img/ail(4).pdf" style="text-decoration:none;">CS3243 Foundations Of Artificial Intelligence</a></b></li>                              
-<li><b><a target="_blank" href="img/ail(5).pdf" style="text-decoration:none;">CMSC471/671 Artificial Intelligence</a></b></li>
-<li><b><a target="_blank" href="img/ail(6).pdf" style="text-decoration:none;">Introduction to Neural Networks and Deep Learning</a></b></li>
+ <li><b><a target="_blank" href="img/ail(1).pdf" style="text-decoration:none;">Quantum Field Theory: A Modern Introduction </a></b></li>
+ <li><b><a target="_blank" href="img/ail(2).pdf" style="text-decoration:none;">The Analysis of Matter  </a></b></li>
+<li><b><a target="_blank" href="img/ail(3).pdf" style="text-decoration:none;">The Quantum Theory of Fields</a></b></li>
+ <li><b><a target="_blank" href="img/ail(4).pdf" style="text-decoration:none;">The Universe in a Nutshell</a></b></li>                              
+<li><b><a target="_blank" href="img/ail(5).pdf" style="text-decoration:none;">The Character of Physical Law</a></b></li>
+<li><b><a target="_blank" href="img/ail(6).pdf" style="text-decoration:none;">The Evolution Of Physics</a></b></li>
  
-  <li><b><a target="_blank" href="img/ail(7).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Engineering Societies in the Agents World V</a></b></li>
- <li><b><a target="_blank" href="img/ail(8).pdf" style="text-decoration:none;">CSE176 Introduction to Machine Learning — Lecture notes </a></b></li>
-   <li><b><a target="_blank" href="img/ail(9).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li>                             
- <li><b><a target="_blank" href="img/ail(10).pdf" style="text-decoration:none;">Lectures on Machine Learning: From artificial intelligence to machine learning </a></b></li>                              
-<li><b><a target="_blank" href="img/ail(11).pdf" style="text-decoration:none;">CS725: Foundations of Machine learning - Lecture Notes</a></b></li>
-<li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">Lecture Notes On Artificial Intelligence</a></b></li>
-               <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">Introduction to Artificial Intelligence</a></b></li>
+  <li><b><a target="_blank" href="img/ail(7).pdf" style="text-decoration:none;">Ideas and Opinions</a></b></li>
+ <li><b><a target="_blank" href="img/ail(8).pdf" style="text-decoration:none;">The Road to Reality: A Complete Guide to the Laws of the Universe </a></b></li>
+   <li><b><a target="_blank" href="img/ail(9).pdf" style="text-decoration:none;">George's Cosmic Treasure Hunt</a></b></li>                                                          
+<li><b><a target="_blank" href="img/ail(11).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out</a></b></li>
+<li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">A Devil's Chaplain: Reflections on Hope, Lies, Science, and Love</a></b></li>
+               <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">The Ancestor's Tale: A Pilgrimage to the Dawn of Life</a></b></li>
                               
 <li><b><a target="_blank" href="img/ail(15).pdf" style="text-decoration:none;">Machine Learning and Data Mining Lecture Notes</a></b></li>
 <li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Artificial Intelligence - IIT</a></b></li>
