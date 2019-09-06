@@ -125,6 +125,22 @@
   
  
  
+  <li><b><a target="_blank" href="img/ail(72).pdf" style="text-decoration:none;">Proposed Roads To Freedom </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(73).pdf" style="text-decoration:none;">On the Origin of Species</a></b></li> 
+ 
+   <li><b><a target="_blank" href="img/ail(74).pdf" style="text-decoration:none;">The Expression of the Emotions in Man and Animals</a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(75).pdf" style="text-decoration:none;">The Nature of Space and Time
+ </a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(76).pdf" style="text-decoration:none;">The World as I See It </a></b></li> 
+ 
+  
+   <li><b><a target="_blank" href="img/ail(77).pdf" style="text-decoration:none;">The Tragedy of Romeo and Juliet</a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(78).pdf" style="text-decoration:none;">Political Ideals</a></b></li> 
+  
  
  
  
