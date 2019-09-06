@@ -28,38 +28,38 @@
  
 <li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Bag of Bones </a></b></li>
 
-<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Machine Learning by Andrew NG Lecture Notes </a></b></li>
+<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Physics of the Impossible </a></b></li>
  
-  <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">Computing Machinery And Intelligence </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(23).pdf" style="text-decoration:none;">Concise Machine Learning </a></b></li>
+  <li><b><a target="_blank" href="img/ail(23).pdf" style="text-decoration:none;">The Grand Design </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">Artificial Intelligence - MIT </a></b></li>
+   <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">Artificial Intelligence Lecture Notes </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">A Universe from Nothing </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Contemporary Knowledge Engineering and Cognition </a></b></li>
+  <li><b><a target="_blank" href="img/ail(26).pdf" style="text-decoration:none;">The Greatest Story Ever Told—So Far </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
+   <li><b><a target="_blank" href="img/ail(27).pdf" style="text-decoration:none;">The Voyage of the Beagle</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(26).pdf" style="text-decoration:none;">15-381: Artificial Intelligence - Introduction and Overview </a></b></li>
+   <li><b><a target="_blank" href="img/ail(28).pdf" style="text-decoration:none;">Shakespeare's Sonnets</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(27).pdf" style="text-decoration:none;">Python code for Artificial Intelligence: Foundations of Computational Agents </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(29).pdf" style="text-decoration:none;">The Oxford Book of Modern Science Writing  </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(28).pdf" style="text-decoration:none;">Introduction to Computer Vision </a></b></li>
+  <li><b><a target="_blank" href="img/ail(30).pdf" style="text-decoration:none;">The Universe In The Light Of Modern Physics </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
+   <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the 10th Dimension </a></b></li> 
  
-   <li><b><a target="_blank" href="img/ail(29).pdf" style="text-decoration:none;">The Robot and I: How New Digital Technologies Are Making Smart People and Businesses Smarter by Automating Rote Work </a></b></li>
+   <li><b><a target="_blank" href="img/ail(32).pdf" style="text-decoration:none;">The Language of God</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">Artificial Intelligence And Life In 2030 </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(33).pdf" style="text-decoration:none;">Quidditch Through the Ages </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(32).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(34).pdf" style="text-decoration:none;">My Brief History </a></b></li> 
  
   
-   <li><b><a target="_blank" href="img/ail(33).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(35).pdf" style="text-decoration:none;">Darwin's Dangerous Idea: Evolution and the Meanings of Life</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(34).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(36).pdf" style="text-decoration:none;">Richard Dawkins: How a Scientist Changed the Way We Think </a></b></li> 
  
  
  
