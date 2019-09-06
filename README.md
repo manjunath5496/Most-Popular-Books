@@ -74,23 +74,23 @@
  <li><b><a target="_blank" href="img/ail(44).pdf" style="text-decoration:none;">Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos </a></b></li>
    <li><b><a target="_blank" href="img/ail(45).pdf" style="text-decoration:none;">The Tales of Beedle the Bard</a></b></li>                                                          
 <li><b><a target="_blank" href="img/ail(46).pdf" style="text-decoration:none;">The God Delusion</a></b></li>
-<li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">A Devil's Chaplain: Reflections on Hope, Lies, Science, and Love</a></b></li>
-               <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">The Ancestor's Tale: A Pilgrimage to the Dawn of Life</a></b></li>
+<li><b><a target="_blank" href="img/ail(47).pdf" style="text-decoration:none;">The First Three Minutes</a></b></li>
+               <li><b><a target="_blank" href="img/ail(48).pdf" style="text-decoration:none;">The Greatest Show on Earth: The Evidence for Evolution</a></b></li>
                
- <li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">The Descent of Man, and Selection in Relation to Sex</a></b></li>              
+ <li><b><a target="_blank" href="img/ail(49).pdf" style="text-decoration:none;">Six Not-So-Easy Pieces</a></b></li>              
                               
-<li><b><a target="_blank" href="img/ail(15).pdf" style="text-decoration:none;">Black House</a></b></li>
-<li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Harry Potter and the Half-Blood Prince</a></b></li>
+<li><b><a target="_blank" href="img/ail(50).pdf" style="text-decoration:none;">The Extended Phenotype</a></b></li>
+<li><b><a target="_blank" href="img/ail(51).pdf" style="text-decoration:none;">A Brief History of Time</a></b></li>
 
-  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Black Holes And Baby Universes And Other Essays </a></b></li>    
+  <li><b><a target="_blank" href="img/ail(52).pdf" style="text-decoration:none;">Harry Potter and the Deathly Hallows </a></b></li>    
   
-<li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">QED: The Strange Theory of Light and Matter </a></b></li>      
+<li><b><a target="_blank" href="img/ail(53).pdf" style="text-decoration:none;">The Merchant of Venice </a></b></li>      
 
-<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">The Emperor's New Mind </a></b></li>
+<li><b><a target="_blank" href="img/ail(54).pdf" style="text-decoration:none;">Harry Potter and the Prisoner of Azkaban </a></b></li>
  
-<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Bag of Bones </a></b></li>
+<li><b><a target="_blank" href="img/ail(55).pdf" style="text-decoration:none;">The Legacy of Cain</a></b></li>
 
-<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Physics of the Impossible </a></b></li>
+<li><b><a target="_blank" href="img/ail(56).pdf" style="text-decoration:none;">The Theory of Everything </a></b></li>
  
   <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design </a></b></li>                              
 
