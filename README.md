@@ -153,5 +153,28 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(83).pdf" style="text-decoration:none;">Three hundred years of gravitation</a></b></li>  
  
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(10).pdf" style="text-decoration:none;">The Communist Manifesto</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(84).pdf" style="text-decoration:none;">Das Kapital</a></b></li> 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(85).pdf" style="text-decoration:none;">100 Great Copywriting Ideas </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(86).pdf" style="text-decoration:none;">A Beautiful Mind </a></b></li> 
+ 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(87).pdf" style="text-decoration:none;">2001: A space odissey</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(88).pdf" style="text-decoration:none;">A History of Mathematics</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(89).pdf" style="text-decoration:none;">A Short History of Nearly Everything</a></b></li>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
   </ul>
