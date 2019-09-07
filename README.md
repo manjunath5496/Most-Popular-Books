@@ -181,9 +181,15 @@
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(95).pdf" style="text-decoration:none;">Algorithm Design</a></b></li>  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(96).pdf" style="text-decoration:none;">An Objective Theory of Probability</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(97).pdf" style="text-decoration:none;">American Psycho</a></b></li> 
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(98).pdf" style="text-decoration:none;">Algorithms</a></b></li>  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(99).pdf" style="text-decoration:none;">Astrophysics for People in a Hurry</a></b></li>  
  
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Books/blob/master/pop(100).pdf" style="text-decoration:none;">Astronomy with an Opera-glass</a></b></li>  
  
  
  
