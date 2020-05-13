@@ -1,3 +1,17 @@
+
+<figure id="attachment_5743" class="wp-caption aligncenter" data-shortcode="caption"><a href="book.jpg"><img class="size-full wp-image-5743" src="book.jpg" sizes="(max-width: 554px) 100vw, 554px" srcset="book.jpg" alt="Illustration by Ezra Jack Keats via Every Child A reader" data-attachment-id="5743" data-permalink="book.jpg" data-orig-file="book.jpg" data-orig-size="554,574" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="423229_211163329020830_1684279549_n" data-image-description="" data-medium-file="book.jpg" data-large-file="book.jpg" /></a></figure>
+<p><strong>Carl Sagan (1934-1996), astronomer and book lover:</strong></p>
+<p>"What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you&rsquo;re inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you.</p>
+<p>Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic."</p>
+<p>~excerpt from the 11th episode of Carl Sagan's 1980s&nbsp;<a href="https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey"><em>Cosmos</em></a>&nbsp;series, titled "The Persistence of Memory"</p>
+
+</br>
+
+<h2> </h2>
+
+
+
+
 <ul>
 
                              
